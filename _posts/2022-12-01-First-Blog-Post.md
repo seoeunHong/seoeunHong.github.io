@@ -1,7 +1,7 @@
 ---
 title: First Blog Post!
 author: Seoeun Hong
-date: 2022-12-01 19:00:00 -05:00
+date: 2022-12-01 19:00:00 -0500
 categories: [Personal Stories]
 ---
 
