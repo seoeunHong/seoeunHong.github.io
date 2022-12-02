@@ -1,21 +1,17 @@
 ---
 title: First Blog Post!
+author: Seoeun Hong
 date: 2022-12-01 19:00:00 -05:00
 categories: [Personal Stories]
 ---
 
-# Table of Contents
-1. [Hello Word!](#hello_world)
-2. [Why I started this blog?](#why_start)
-3. [The goal of this blog](#goal)
-
-## <a name="hello_world"/> Hello Word!
+## Hello Word!
 ---
 Hello everyone who is reading this post right now! This is **Seoeun Hong**. You can just call me **Sun☀️**. The pronunciation is pretty similar :)
 
 This is my first time making my own blog and writing a post on it. So, it’s really exciting for me. Hopefully, I can upload more informatic posts here in the future and share thoughts with you guys
 
-##<a name="why_start"/> Why I started this blog?
+## Why I started this blog?
 ---
 In this fall semester, I became a senior. As many seniors do, I also applied my resume to a bunch of companies to get a job as a software engineer. However, by the irony of fate, the situation in the IT industry was not good (It is still not good). Many big IT companies, such as FAANG, fired so many people, and the news of “hiring freezing” had been heard every day (and this is still ongoing). I already felt insecure because I thought I wasn’t ready, but I felt that feeling more after I heard those kinds of news.
 
@@ -29,7 +25,7 @@ Asking myself a lot of questions and talking to a lot of people, I realized that
 
 After lots of discussions with my family and friends, I decided to postpone my graduation and improve my own coding skills. And rather than just trying to learn a large amount of knowledge at once, I want to learn the process or theory of the project or study that I am doing right now properly and record it. That is why this blog was created.
 
-##<a name="goal"/> The goal of this blog
+## The goal of this blog
 ---
 My current goal for this blog is to keep recording all the studying or projects that I am doing right now. 
 
