@@ -29,7 +29,7 @@ Asking myself a lot of questions and talking to a lot of people, I realized that
 
 After lots of discussions with my family and friends, I decided to postpone my graduation and improve my own coding skills. And rather than just trying to learn a large amount of knowledge at once, I want to learn the process or theory of the project or study that I am doing right now properly and record it. That is why this blog was created.
 
-##<a name="goal" /> The goal of this blog
+##<a name="goal"/> The goal of this blog
 ---
 My current goal for this blog is to keep recording all the studying or projects that I am doing right now. 
 
